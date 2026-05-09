@@ -1,2 +1,1 @@
-# Original
-The original website for the project
+# jnYuyingMC.github.io
