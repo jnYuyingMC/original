@@ -1,6 +1,10 @@
 # jnYuyingMC.github.io/original
 
-> 大育英帝国 Minecraft 计划官网（2017 原始版）/ Original 2017 website
+> ⚠️ **已弃用 / Deprecated** — 本仓库已归档，不再维护。请访问 [新版官网](https://github.com/jnYuyingMC/jnYuyingMC.github.io)。
+>
+> This repository is archived and no longer maintained. Visit the [new website](https://github.com/jnYuyingMC/jnYuyingMC.github.io).
+
+大育英帝国 Minecraft 计划官网（2017 原始版）/ Original 2017 website
 
 ## 页面 / Pages
 
