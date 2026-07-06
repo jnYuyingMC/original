@@ -4,6 +4,12 @@
 >
 > This repository is archived and no longer maintained. Visit the [new website](https://github.com/jnYuyingMC/jnYuyingMC.github.io).
 
+## 免责声明 / Disclaimer
+
+> **English:** NOT AN OFFICIAL MINECRAFT PROJECT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+> 
+> **中文：** 非官方Minecraft项目。未经Mojang或Microsoft批准，亦与Mojang或Microsoft无关。
+
 大育英帝国 Minecraft 计划官网（2017 原始版）/ Original 2017 website
 
 ## 页面 / Pages
